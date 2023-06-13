@@ -9,7 +9,7 @@ let iceCreamFlavors = [
   "Neapolitan",
   "Mint Chip",
   "Choripan",
-  "Huevo duro"
+  "Huevo"
 ];
 
 
