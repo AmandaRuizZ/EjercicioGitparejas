@@ -11,7 +11,8 @@ let iceCreamFlavors = [
   "choripan",
   "huevo duro",
   "pescado",
-  "coliflor"
+  "coliflor",
+  "Monster"
 ] 
 
 let iWantAIceCream = window.prompt("Que sabor de helado deseas?", "");
