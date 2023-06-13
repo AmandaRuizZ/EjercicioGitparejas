@@ -10,7 +10,8 @@ let iceCreamFlavors = [
   "Mint Chip",
   "Choripan",
   "Huevo duro",
-  "Pescado"
+  "Pescado",
+  "coliflor"
 ]
 let iWantAIceCream = window.prompt("Que sabor de helado deseas?", "");
 let iceCreamFound;
